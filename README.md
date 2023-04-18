@@ -1,4 +1,4 @@
-### Github\Home> whoami
+### github\home> whoami
 
 Hi there! I'm a young programming enthusiast who loves to explore different aspects of programming. I'm particularly skilled in C++ and Dart, but I'm always eager to learn and expand my knowledge.
 
