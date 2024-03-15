@@ -1,13 +1,13 @@
 ### github\home> whoami
 
 
-![WilliamKarolDiCioccio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WilliamKarolDiCioccio&show_icons=true&theme=dark)
+[![WilliamKarolDiCioccio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WilliamKarolDiCioccio&show_icons=true&theme=dark)](https://github.com/WilliamKarolDiCioccio)
 
 
 Hi there! I'm a young programming enthusiast who loves exploring different programming aspects. I'm particularly skilled in C++ and Dart but always eager to learn and expand my knowledge.
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=Rake&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=Rake&theme=dark)](https://github.com/WilliamKarolDiCioccio/Rake)
 
 
 Currently, my studies are focused on the fascinating world of artificial intelligence, specifically neural networks for computer vision. I'm always looking for ways to improve my skills and expand my knowledge in this field.
