@@ -5,7 +5,6 @@
 * 🔭 I’m currently working on the Rake Game Engine and OpenLocalUI
 * 🌱 I’m currently learning about Large Language Models
 * 🤝 I’m looking to collaborate on pretty much anything
-* 🤔 I’m looking for help with my Discord bot
 * 📫 Email me at [williamkarol06@gmail.com](mailto:williamkarol06@gmail.com)
 * ❤️ I love low-level programming
 * ⚡ Fun fact... I don't know
