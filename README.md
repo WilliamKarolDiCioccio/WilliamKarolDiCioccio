@@ -1,5 +1,7 @@
 ### github\home> whoami
 
+[![Wilielmus profile views](https://u8views.com/api/v1/github/profiles/88447902/views/day-week-month-total-count.svg)](https://u8views.com/github/WilliamKarolDiCioccio)
+
 * 👂 My name is William
 * 👩 Pronouns: he/him
 * 🔭 I’m currently working on the Rake Game Engine and OpenLocalUI
