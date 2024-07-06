@@ -7,7 +7,7 @@
 * 🔭 I’m currently working on OpenLocalUI and the Rake Game Engine
 * 🌱 I’m currently learning about Large Language Models
 * 🤝 I’m looking to collaborate on pretty much anything
-* 📫 Email me at [williamkarol06@gmail.com](mailto:williamkarol06@gmail.com)
+* 📫 Email me at [theyoungprogrammer06@gmail.com](mailto:theyoungprogrammer06@gmail.com)
 * ❤️ I love low-level programming
 * ⚡ Fun fact... I don't know
 
