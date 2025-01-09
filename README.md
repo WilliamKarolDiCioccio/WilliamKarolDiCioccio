@@ -11,11 +11,33 @@
 * ❤️ I love low-level programming
 * ⚡ Fun fact... I don't know
 
-<br>
+---
 
-[![WilliamKarolDiCioccio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WilliamKarolDiCioccio&show_icons=true&theme=dark)](https://github.com/WilliamKarolDiCioccio)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=WilliamKarolDiCioccio&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=WilliamKarolDiCioccio&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WilliamKarolDiCioccio&show_icons=true" alt="WilliamKarolDiCioccio's GitHub stats" />
+</picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamKarolDiCioccio&layout=compact&theme=dark)
+<br/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamKarolDiCioccio&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamKarolDiCioccio&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamKarolDiCioccio&layout=compact" alt="WilliamKarolDiCioccio's Top Languages" />
+</picture>
 
 ---
 
