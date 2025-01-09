@@ -51,11 +51,31 @@ In addition to programming, I enjoy spending my free time outdoors and exploring
 
 OpenLocalUI is the last project I began working on. It's a Flutter desktop app providing a user interface to interact with an Ollama client. I started working on it as I'm a huge fan of running LLMs locally for privacy and customization and other existing software doesn't satisfy me. It is accessible and has a lot of potential so I suggest you take a look at it!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui&theme=dark)](https://github.com/WilliamKarolDiCioccio/open_local_ui)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui" alt="Pinned repository: open_local_ui" />
+</picture>
 
 One of my most important projects is Rake, a game engine, or at least a good starting point for one. It's a project I'm proud of as it is the best display of my technical knowledge. I hope you'll enjoy exploring it as much as I enjoyed working on it. Furthermore, I'm searching for collaborators to help me realize my view of Rake. If you want to find out more click on the pin below!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=Rake&theme=dark)](https://github.com/WilliamKarolDiCioccio/Rake)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=Rake&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=Rake"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=Rake" alt="Pinned repository: Rake" />
+</picture>
 
 ---
 
