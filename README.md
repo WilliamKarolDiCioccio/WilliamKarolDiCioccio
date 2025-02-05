@@ -4,7 +4,7 @@
 
 * 👂 My name is William
 * 👩 Pronouns: he/him
-* 🔭 I’m currently working on OpenLocalUI and the Rake Game Engine
+* 🔭 I’m currently working on [OpenLocalUI](https://github.com/WilliamKarolDiCioccio/open_local_ui) and [FlNodes](https://github.com/WilliamKarolDiCioccio/fl_nodes)
 * 🌱 I’m currently learning about Large Language Models
 * 🤝 I’m looking to collaborate on pretty much anything
 * 📫 Email me at [theyoungprogrammer06@gmail.com](mailto:theyoungprogrammer06@gmail.com)
@@ -81,5 +81,3 @@ One of my most important projects is Rake, a game engine, or at least a good sta
 
 
 Thank you for taking the time to visit my profile. If you have any questions or comments, please don't hesitate to contact me. I'm always happy to connect with like-minded individuals who share my passion for programming and learning.
-
-William Di Cioccio + ChatGPT :)
