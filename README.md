@@ -63,7 +63,7 @@ OpenLocalUI is the last project I began working on. It's a Flutter desktop app p
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui" alt="Pinned repository: open_local_ui" />
 </picture>
 
-One of my most important projects is Rake, a game engine, or at least a good starting point for one. It's a project I'm proud of as it is the best display of my technical knowledge. I hope you'll enjoy exploring it as much as I enjoyed working on it. Furthermore, I'm searching for collaborators to help me realize my view of Rake. If you want to find out more click on the pin below!
+This is the most appreciated repository on my profile—a Flutter package for building node-based UIs, particularly node editors. However, its flexibility allows for a wide range of applications. I'm especially proud of this project as it showcases my contribution to the Flutter ecosystem and highlights my active engagement in the Flutter developers community.
 
 <picture>
   <source
@@ -71,7 +71,7 @@ One of my most important projects is Rake, a game engine, or at least a good sta
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=Rake"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=fl_nodes"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=Rake" alt="Pinned repository: Rake" />
