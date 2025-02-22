@@ -41,11 +41,13 @@
 
 ---
 
-Hi there! I'm a young programming enthusiast who loves exploring different programming aspects. I'm particularly skilled in C++ and Dart but always eager to learn and expand my knowledge.
+Hi there! 👋
 
-Currently, my studies are focused on the fascinating world of artificial intelligence, specifically neural networks for computer vision. I'm always looking for ways to improve my skills and expand my knowledge in this field.
+I'm an 18-year-old developer passionate about IT. My goal is not to build a billion-dollar startup or work for big tech but simply to create open-source projects that help others achieve their goals. My aim is to find a sustainable way to support myself while dedicating as much time as possible to open-source development.
 
-In addition to programming, I enjoy spending my free time outdoors and exploring nature. Nature provides a peaceful and serene environment that can help us think creatively and improve our overall well-being.
+As a developer, I focus on enabling great user experiences and empowering others to bring their ideas to life. But beyond code, what truly matters to me is leaving a lasting impact on the people I interact with—through shared appreciation, collaboration, and meaningful connections. Sometimes, we get so caught up in chasing big ambitions that we forget what truly makes us happy: the relationships we build along the way, even in virtual spaces.
+
+I believe that greatness cannot be planned—a philosophy I deeply resonate with (and the title of a book I love). Though I’ve been programming since I was 13, I don’t see myself as just a "tech person." If my work leaves more of a sociocultural mark than a purely technical one, I’d consider that a true success.
 
 ---
 
