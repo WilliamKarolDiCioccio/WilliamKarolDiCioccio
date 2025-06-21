@@ -1,4 +1,4 @@
-### github\home> whoami
+## github\home> whoami
 
 [![Wilielmus profile views](https://u8views.com/api/v1/github/profiles/88447902/views/day-week-month-total-count.svg)](https://u8views.com/github/WilliamKarolDiCioccio)
 
@@ -41,7 +41,7 @@
 
 ---
 
-Hi there! 👋
+### Hi there! 👋
 
 I'm an 18-year-old developer passionate about IT. My goal is not to build a billion-dollar startup or work for big tech but simply to create open-source projects that help others achieve their goals. My aim is to find a sustainable way to support myself while dedicating as much time as possible to open-source development.
 
@@ -81,5 +81,15 @@ This is the most appreciated repository on my profile—a Flutter package for bu
 
 ---
 
+### 🧭 I'm open to work!
+
+I'm currently looking for remote Flutter or C++ developer opportunities—contract, part-time, or junior-level full-time.
+If you're building something creative, technically challenging, or open-source friendly, I'd love to hear from you.
+
+- 📫 Contact me: [williamkarol.dicioccio@gmail.com](mailto:williamkarol.dicioccio@gmail.com)
+- 📎 Resume: [View here](https://drive.google.com/file/d/1L-Xv7alIhnqGKB7PrvOQPGWzyTEqMmTr/view?usp=drive_link)
+- 🌍 Open to freelance, internships, and long-term collaborations
+
+---
 
 Thank you for taking the time to visit my profile. If you have any questions or comments, please don't hesitate to contact me. I'm always happy to connect with like-minded individuals who share my passion for programming and learning.
