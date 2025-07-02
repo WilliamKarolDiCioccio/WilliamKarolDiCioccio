@@ -92,4 +92,13 @@ If you're building something creative, technically challenging, or open-source f
 
 ---
 
+### 📖 I Just Published My First Article!
+
+This is my first time writing about one of my projects, and I went all in. The article dives deep into how FlNodes works — from GPU batching and spatial hashing to layout, interactivity, and Flutter’s rendering internals.
+If you’re curious about the architecture behind the library, or just like reading about creative engineering in Flutter:
+
+→ [👁️ Read “Building Beyond Widgets” on Medium](https://medium.com/@theyoungprogrammer06/building-beyond-widgets-what-i-learned-creating-a-visual-scripting-tool-in-flutter-01697f458e28)
+
+---
+
 Thank you for taking the time to visit my profile. If you have any questions or comments, please don't hesitate to contact me. I'm always happy to connect with like-minded individuals who share my passion for programming and learning.
