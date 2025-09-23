@@ -51,19 +51,20 @@ I believe that greatness cannot be planned—a philosophy I deeply resonate with
 
 ---
 
-OpenLocalUI is the last project I began working on. It's a Flutter desktop app providing a user interface to interact with an Ollama client. I started working on it as I'm a huge fan of running LLMs locally for privacy and customization and other existing software doesn't satisfy me. It is accessible and has a lot of potential so I suggest you take a look at it!
+Mosaic is my biggest and most ambitious project so far: a modern, cross-platform game engine written in C++20. It targets **Windows, Linux, Android, and Web** through **Vulkan** and **WebGPU**, and is built with performance and modularity in mind. I hope one day this will become a professional-grade software and represent the foundation for a game development studio.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=mosaic&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=mosaic"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui" alt="Pinned repository: open_local_ui" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=mosaic" alt="Pinned repository: mosaic" />
 </picture>
+
 
 This is the most appreciated repository on my profile—a Flutter package for building node-based UIs, particularly node editors. However, its flexibility allows for a wide range of applications. I'm especially proud of this project as it showcases my contribution to the Flutter ecosystem and highlights my active engagement in the Flutter developers community.
 
@@ -77,6 +78,21 @@ This is the most appreciated repository on my profile—a Flutter package for bu
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=fl_nodes" alt="Pinned repository: fl_nodes" />
+</picture>
+
+
+OpenLocalUI it's a Flutter desktop app providing a user interface to interact with an Ollama client. I started working on it as I'm a huge fan of running LLMs locally for privacy and customization and other existing software doesn't satisfy me. It is accessible and has a lot of potential so I suggest you take a look at it!
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=open_local_ui" alt="Pinned repository: open_local_ui" />
 </picture>
 
 ---
