@@ -4,10 +4,8 @@
 
 * 👂 My name is William
 * 👩 Pronouns: he/him
-* 🔭 I’m currently working on [OpenLocalUI](https://github.com/WilliamKarolDiCioccio/open_local_ui) and [FlNodes](https://github.com/WilliamKarolDiCioccio/fl_nodes)
-* 🌱 I’m currently learning about Large Language Models
 * 🤝 I’m looking to collaborate on pretty much anything
-* 📫 Email me at [theyoungprogrammer06@gmail.com](mailto:theyoungprogrammer06@gmail.com)
+* 📫 Email me at [williamkarol.dicioccio@gmail.com](mailto:williamkarol.dicioccio@gmail.com)
 * ❤️ I love low-level programming
 * ⚡ Fun fact... I don't know
 
@@ -45,9 +43,9 @@
 
 I'm an 18-year-old developer passionate about IT. My goal is not to build a billion-dollar startup or work for big tech but simply to create open-source projects that help others achieve their goals. My aim is to find a sustainable way to support myself while dedicating as much time as possible to open-source development.
 
-As a developer, I focus on enabling great user experiences and empowering others to bring their ideas to life. But beyond code, what truly matters to me is leaving a lasting impact on the people I interact with—through shared appreciation, collaboration, and meaningful connections. Sometimes, we get so caught up in chasing big ambitions that we forget what truly makes us happy: the relationships we build along the way, even in virtual spaces.
+As a developer, I focus on enabling great user experiences and empowering others to bring their ideas to life. But beyond code, what truly matters to me is leaving a lasting impact on the people I interact with, through shared appreciation, collaboration, and meaningful connections. Sometimes, we get so caught up in chasing big ambitions that we forget what truly makes us happy: the relationships we build along the way, even in virtual spaces.
 
-I believe that greatness cannot be planned—a philosophy I deeply resonate with (and the title of a book I love). Though I’ve been programming since I was 13, I don’t see myself as just a "tech person." If my work leaves more of a sociocultural mark than a purely technical one, I’d consider that a true success.
+I believe that greatness cannot be planned, a philosophy I deeply resonate with (and the title of a book I love). Though I’ve been programming since I was 13, I don’t see myself as just a "tech person." If my work leaves more of a sociocultural mark than a purely technical one, I’d consider that a true success.
 
 ---
 
@@ -66,7 +64,7 @@ Mosaic is my biggest and most ambitious project so far: a modern, cross-platform
 </picture>
 
 
-This is the most appreciated repository on my profile—a Flutter package for building node-based UIs, particularly node editors. However, its flexibility allows for a wide range of applications. I'm especially proud of this project as it showcases my contribution to the Flutter ecosystem and highlights my active engagement in the Flutter developers community.
+This is the most appreciated repository on my profile, a Flutter package for building node-based UIs, particularly node editors. However, its flexibility allows for a wide range of applications. I'm especially proud of this project as it showcases my contribution to the Flutter ecosystem and highlights my active engagement in the Flutter developers community.
 
 <picture>
   <source
@@ -99,10 +97,10 @@ OpenLocalUI it's a Flutter desktop app providing a user interface to interact wi
 
 ### 🧭 I'm open to work!
 
-I'm currently looking for remote Flutter or C++ developer opportunities—contract, part-time, or junior-level full-time.
+I'm currently looking for remote Flutter or C++ developer opportunities, freelance and part-time.
 If you're building something creative, technically challenging, or open-source friendly, I'd love to hear from you.
 
-- 📫 Contact me: [williamkarol.dicioccio@gmail.com](mailto:williamkarol.dicioccio@gmail.com)
+- 📫 Email me: [williamkarol.dicioccio@gmail.com](mailto:williamkarol.dicioccio@gmail.com)
 - 📎 Resume: [View here](https://drive.google.com/file/d/1L-Xv7alIhnqGKB7PrvOQPGWzyTEqMmTr/view?usp=drive_link)
 - 🌍 Open to freelance, internships, and long-term collaborations
 
@@ -110,7 +108,7 @@ If you're building something creative, technically challenging, or open-source f
 
 ### 📖 I Just Published My First Article!
 
-This is my first time writing about one of my projects, and I went all in. The article dives deep into how FlNodes works — from GPU batching and spatial hashing to layout, interactivity, and Flutter’s rendering internals.
+This is my first time writing about one of my projects, and I went all in. The article dives deep into how FlNodes works, from GPU batching and spatial hashing to layout, interactivity, and Flutter’s rendering internals.
 If you’re curious about the architecture behind the library, or just like reading about creative engineering in Flutter, you can check out the article on the platform of your preference:
 
 - [Dev Community](https://dev.to/williamkaroldicioccio/building-beyond-widgets-what-i-learned-creating-a-visual-scripting-tool-in-flutter-d38)
