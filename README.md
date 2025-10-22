@@ -97,12 +97,12 @@ OpenLocalUI it's a Flutter desktop app providing a user interface to interact wi
 
 ### 🧭 I'm open to work!
 
-I'm currently looking for remote Flutter or C++ developer opportunities, freelance and part-time.
+I'm currently looking for remote Flutter or C++ developer opportunities.
 If you're building something creative, technically challenging, or open-source friendly, I'd love to hear from you.
 
 - 📫 Email me: [williamkarol.dicioccio@gmail.com](mailto:williamkarol.dicioccio@gmail.com)
 - 📎 Resume: [View here](https://drive.google.com/file/d/1L-Xv7alIhnqGKB7PrvOQPGWzyTEqMmTr/view?usp=drive_link)
-- 🌍 Open to freelance, internships, and long-term collaborations
+- 🌍 Open to freelance, part-time and long-term collaborations
 
 ---
 
