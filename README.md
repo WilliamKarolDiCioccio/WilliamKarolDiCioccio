@@ -49,18 +49,18 @@ I believe that greatness cannot be planned, a philosophy I deeply resonate with 
 
 ---
 
-Mosaic is my biggest and most ambitious project so far: a modern, cross-platform game engine written in C++20. It targets **Windows, Linux, Android, and Web** through **Vulkan** and **WebGPU**, and is built with performance and modularity in mind. I hope one day this will become a professional-grade software and represent the foundation for a game development studio.
+Saturn is my biggest and most ambitious project so far: a modern, cross-platform game engine written in C++20. It targets **Windows, Linux, Android, and Web** through **Vulkan** and **WebGPU**, and is built with performance and modularity in mind. I hope one day this will become a professional-grade software and represent the foundation for a game development studio.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=mosaic&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=saturn&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=mosaic"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=saturn"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=mosaic" alt="Pinned repository: mosaic" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamKarolDiCioccio&repo=saturn" alt="Pinned repository: saturn" />
 </picture>
 
 
