@@ -41,7 +41,9 @@
 
 ### Hi there! 👋
 
-I'm an 18-year-old developer passionate about IT. My goal is not to build a billion-dollar startup or work for big tech but simply to create open-source projects that help others achieve their goals. My aim is to find a sustainable way to support myself while dedicating as much time as possible to open-source development.
+I'm a 19 (20 in a few months 😔) years old computer-science enthusiast who recently made his entrace in the job market. 
+
+My goal is not to build a billion-dollar startup or work for big tech but simply to create projects that help others achieve their goals. My aim is to find a sustainable way to support myself while dedicating as much time as possible to open-source development.
 
 As a developer, I focus on enabling great user experiences and empowering others to bring their ideas to life. But beyond code, what truly matters to me is leaving a lasting impact on the people I interact with, through shared appreciation, collaboration, and meaningful connections. Sometimes, we get so caught up in chasing big ambitions that we forget what truly makes us happy: the relationships we build along the way, even in virtual spaces.
 
